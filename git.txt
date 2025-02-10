@@ -3,5 +3,5 @@ status
 log
 config(이메일, 유저명 등록. 1회만 하면 됨)
 add
-commit (-m)
+commit (-m "버전이름")
 checkout (코드 7자리 or - )
