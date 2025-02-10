@@ -1,3 +1,3 @@
 echo
 push
-pull
+설거지
